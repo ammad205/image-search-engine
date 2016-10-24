@@ -2,7 +2,6 @@
 
 
 
-% Matlab Image Processing toolbox is used for this task % 
 
 
 This code takes an image as an input and return similar images from the database of images based on:
@@ -16,4 +15,4 @@ This code takes an image as an input and return similar images from the database
 
 
 
-**Note:** Database images are not included in the code.
+**Note:** Database images are not included in the code. Matlab Image Processing toolbox is used for this Project.
